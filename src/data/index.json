@@ -1,0 +1,106 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Experienced in designing the front-end of websites using HTML,CSS and React"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Experienced in designing the back-end of websites using React and JavaScript"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Experienced in designing UI-UX of websites using Figma"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Web Development",
+        "description": "Experienced in developing websites using React and JavaScript"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/game.jpg",
+        "title": "Zone app",
+        "description": "This is an app dedicated to gamers who wants to buy any games or gaming related items or even merchandises from online",
+        "link": "View",
+        "href": "https://www.figma.com/proto/je01KWxpb2l39jH6SI2Qdf/ZONE?type=design&node-id=1-3&t=CCff1sKK3jWaWuBe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1"
+      },
+      {
+        "id": "2",
+        "src": "./img/apartment.jpg",
+        "title": "Savehouse renting site",
+        "description": "This is an app that can be used to book various apartments online worldwide, according to users preference.",
+        "link": "View",
+        "href": "https://github.com/VinayakMK/savehouse"
+      },
+      {
+        "id": "3",
+        "src": "./img/tiger.jpg",
+        "title": "Team-T app",
+        "description": "This is an app that is made for the cause to save and preserve our endangered tigers worldwide with the help of kind hearted people.",
+        "link": "View",
+        "href": "https://www.figma.com/proto/nJlrugMte2ZMegZNtRsKaV/Team-T?type=design&node-id=25-2&t=3jboiMQ8qsyDWMlx-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4"
+      }
+    ],
+    "portfolio1": [
+      {
+        "id": "4",
+        "src": "./img/calculator.jpg",
+        "title": "Calculator",
+        "description": "This here is a basic calculator with a simple UI where we can actually do basic math operations with ease",
+        "link": "View",
+        "href": "https://vinayakmk.github.io/Calculator/"
+      },
+      {
+        "id": "5",
+        "src": "./img/web.jpg",
+        "title": "Blog - Front End",
+        "description": "This is a blog site that is created to learn about front end and its associated terms and functions.And also to know how to become one",
+        "link": "View",
+        "href": "https://vinayakmk.github.io/Front_End/index.html"
+      },
+      {
+        "id": "6",
+        "src": "./img/todo.jpg",
+        "title": "Taskmanager",
+        "description": "This is a basic taskmanager aka to-do list with a simple UI where we can do add, delete, update and organize the tasks",
+        "link": "View",
+        "href": "https://github.com/VinayakMK/Task_manager"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "“The Zone app made buying a game a lot more easier! Definitely will use it again”",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "“This website made booking a rental home a lot more easier! Definitely will use it again”",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "“The app made donating to these organizations way easier ",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
